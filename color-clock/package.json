@@ -1,0 +1,7 @@
+{
+  "name": "color-clock",
+  "packageManager": "yarn@3.2.3"
+},
+"scripts": {
+  "test": "echo 'Hello World!'"
+}
